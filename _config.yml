@@ -34,20 +34,20 @@ subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Traductor L
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: data_covid
-facebook_page: https://www.facebook.com/Data-Against-Covid-19-100330834953672/
-github_username: opencovid19-fr
+twitter_username: traductorlab-bf
+facebook_page: 
+github_username: traductorlab-bf
 email:
-linkedin_page: https://www.linkedin.com/company/data-against-covid-19/
+linkedin_page: 
 instagram_username:
 
 
 # Navivation
 nav_item_one: Github
-nav_item_one_link: https://github.com/opencovid19-fr
+nav_item_one_link: https://github.com/traductorlab-bf
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/data_covid
+nav_item_two_link: https://twitter.com/
 
 nav_item_three: Community
 nav_item_three_link: community.html
@@ -62,7 +62,7 @@ nav_button_link:
 help_one_title: Signaler des bugs / Contribuer
 help_one_content: #If you find any bugs or problems, please open an issue over on Github.
 help_one_button: 
-help_one_link: https://github.com/opencovid19-fr
+help_one_link: https://github.com/traductorlab-bf
 
 
 # Build settings
