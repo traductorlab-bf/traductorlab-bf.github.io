@@ -4,7 +4,7 @@ title: "Développement et entrainement un modèle de traduction moore-fr"
 date: 2020-05-26 15:58:00 -0400
 category: projet-model-moore-fr
 author: admin
-short-description: Projet de développement et entrainement un modèle de traduction moore-fr
+short-description: 
 ---
 
 -----
