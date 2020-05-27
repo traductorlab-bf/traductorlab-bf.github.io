@@ -1,0 +1,13 @@
+#This file defines all the categories you 
+
+
+
+projet-data-moore-fr:
+  name: Projet de construction d'un corpus moore-fr
+  description: Projet de de collecte et de construction de corpus moore-fr
+projet-model-moore-fr:
+  name: Projet de construction d'un modèle de traduction automatique moore-fr
+  description: Contruction et entrainement d'un modèle de traduction moore-fr
+projet-traductor-moore-fr:
+  name: Application de traduction moore-fr en web & mobile 
+  description: Projet de conception d'une application mobile & web de traduction moore-fr et francais-moore

@@ -1,0 +1,86 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Traductor Lab / BF
+description: Initiative Traductor Lab / BF
+baseurl:  # the subpath of your site, e.g. /support
+url: # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+permalink: /:categories/:title
+
+content_type: Traductor Lab / BF #Define whether this is a knowledge base, help center, or something else
+use_authors: false #Set this to false to disable showing post authors
+
+brand_logo: logo-square.png
+brand_name: Traductor Lab / BF
+header: Traductor Lab / BF
+subheader: <font color="#81BEF7">Qui sommes-nous ?</font> </br></br> Traductor Lab / BF est un effort de recherche pour la PNL et la traduction automatique pour les langues Burkinabés. Nous sommes une <font color=red>communauté</font> de développeurs, des data scientist, des ingénieurs et des talents <font color=red>de tous corps de métiers </font> qui s'organisent ensemble pour <font color=red>fournir des données consolidées (corpus), des algorithmes, modéles pré-entrainés et proposer des Apps d'intelligences artificiels.</font> </br></br> <font color="#81BEF7">Notre objectif ?</font> </br></br>Construire des ensembles de données et des outils pour faciliter la recherche en PNL sur les langues burkinabées et poser de nouveaux problèmes de recherche pour enrichir le paysage de la recherche en PNL.
+meta_image: odin-meta.png
+
+# Social Links
+twitter_username: data_covid
+facebook_page: https://www.facebook.com/Data-Against-Covid-19-100330834953672/
+github_username: opencovid19-fr
+email:
+linkedin_page: https://www.linkedin.com/company/data-against-covid-19/
+instagram_username:
+
+
+# Navivation
+nav_item_one: Github
+nav_item_one_link: https://github.com/opencovid19-fr
+
+nav_item_two: Twitter
+nav_item_two_link: https://twitter.com/data_covid
+
+nav_item_three: Community
+nav_item_three_link: community.html
+
+nav_item_four: Faq
+nav_item_four_link: faq.html
+
+nav_button: Return to Home
+nav_button_link:
+
+# More Help
+help_one_title: Signaler des bugs / Contribuer
+help_one_content: #If you find any bugs or problems, please open an issue over on Github.
+help_one_button: 
+help_one_link: https://github.com/opencovid19-fr
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+
+
+sass:
+  sass_dir:          _scss
+  style:            :compressed
