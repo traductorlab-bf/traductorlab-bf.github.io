@@ -2,6 +2,9 @@
 
 
 
+projet-futurs:
+  name: Nos futurs projets
+  description: Nos futurs projets que vous pourriez coordonner
 projet-data-moore-fr:
   name: Projet de construction d'un corpus moore-fr
   description: Projet de de collecte et de construction de corpus moore-fr
