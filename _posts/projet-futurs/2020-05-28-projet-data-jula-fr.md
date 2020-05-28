@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Développement d'un corpus moore-anglais"
+title: "Développement d'un corpus de données jula-anglais"
 date: 2020-05-28 15:58:00 -0400
 category: projet-futurs
 author: admin
@@ -10,9 +10,11 @@ short-description:
 -----
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
-**Objectif** : Collecter et stocker des ensembles de données en mooree et traduit en anglais ou vice versa.  
+**Objectif** : Collecter et stocker des ensembles de données en jula et traduit en français ou vice versa.  
 
-**Livrable** : Un ensemble de corpus (train-test) prêt à employer dans un modèle de traduction.
+**Livrable** : 
+
+**Description** : Il s'agit d'une langue parlée en côte-Ivoire et Burkina Faso
 
 **Organisation du projet :**
 
