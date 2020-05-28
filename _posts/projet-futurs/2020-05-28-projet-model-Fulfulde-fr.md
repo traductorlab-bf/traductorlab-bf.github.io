@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Développement d'un corpus moore-anglais"
+title: "Développement et entrainer un modèle de traduction Fulfulde-Français"
 date: 2020-05-28 15:58:00 -0400
 category: projet-futurs
 author: admin
@@ -10,9 +10,9 @@ short-description:
 -----
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
-**Objectif** : Collecter et stocker des ensembles de données en mooree et traduit en anglais ou vice versa.  
+**Objectif** : Développement et entrainer un modèle de traduction Fulfulde-Français
 
-**Livrable** : Un ensemble de corpus (train-test) prêt à employer dans un modèle de traduction.
+**Livrable** : 
 
 **Organisation du projet :**
 
