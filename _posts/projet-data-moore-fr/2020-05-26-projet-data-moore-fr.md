@@ -32,6 +32,6 @@ short-description: Projet de collecte de données et de construction de corpus m
     - R
     - JavaScript
     
-- Source  : 
+- Source  : https://www.aclweb.org/anthology/P19-1310/
 
 **Licence :** MIT - Mai 2020
