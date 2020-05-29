@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contribuer à la collecte data-corpus moore-fr"
+title: "Contribuer à la collecte data corpus moore-fr"
 date: 2020-05-26 15:58:00 -0400
 category: projet-data-moore-fr
 author: admin
