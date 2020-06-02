@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Développement d'un corpus de données jula-anglais"
+title: "Développement d'un corpus de données jula-français"
 date: 2020-05-28 15:58:00 -0400
 category: projet-futurs
 author: admin
@@ -10,7 +10,7 @@ short-description:
 -----
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
-**Objectif** : Collecter et stocker des ensembles de données en jula et traduit en français ou vice versa.  
+**Objectif** : Collecter et stocker d'un ensembles de données (phrases/mots) en jula et traduit en français ou vice versa.  
 
 **Livrable** : 
 
