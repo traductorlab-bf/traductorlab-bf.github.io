@@ -20,8 +20,8 @@ short-description:
 - Github : 
 - Membre :
     - Cordonnateur/Porteur du projet :
-      - Armel Soubeiga
-      - Blaise Sandwidi
+      - ...
+      - ...
       
      - Contributeurs :
 
