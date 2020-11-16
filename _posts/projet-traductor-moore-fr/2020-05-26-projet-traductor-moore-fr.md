@@ -19,7 +19,7 @@ short-description: Projet de conception d'une application mobile & web de traduc
 - Github : 
 - Membre :
     - Cordonnateur/Porteur du projet :
-      - Armel Soubeiga
+      - ...
 
       
      - Contributeurs :
