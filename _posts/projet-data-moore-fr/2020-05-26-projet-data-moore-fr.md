@@ -20,8 +20,9 @@ short-description:
 - Github : 
 - Membre :
     - Cordonnateur/Porteur du projet :
+      - KONE Yacouba
+      - Ibrahim Sawadogo
       - Armel Soubeiga
-      - Blaise Sandwidi
       
      - Contributeurs :
 
@@ -34,4 +35,4 @@ short-description:
     
 - Source  : https://www.aclweb.org/anthology/P19-1310/
 
-**Licence :** MIT - Mai 2020
+**Licence :** MIT - Fevr 2021
