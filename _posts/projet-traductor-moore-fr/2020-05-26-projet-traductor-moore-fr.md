@@ -10,7 +10,7 @@ short-description: Projet de conception d'une application mobile & web de traduc
 -----
 **Merci d'avoir ressenti l'envie de contribuer!** 
 
-**Objectif** : Développer une application web et mobile en intégrant un modèle de traduction moore-français développé dans un autre projet.
+**Objectif** : Développer une API, une application web et/ou mobile de traduction moore-français développé dans un autre projet.
 
 **Livrable** : 
 
