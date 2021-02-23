@@ -17,7 +17,7 @@ short-description:
 
 **Organisation du projet :**
 
-- Github : 
+- Github : https://github.com/traductorlab-bf/projet-data-moore-fr
 - Membre :
     - Cordonnateur/Porteur du projet :
       - KONE Yacouba
@@ -34,5 +34,5 @@ short-description:
     - JavaScript
     
 - Source  : https://www.aclweb.org/anthology/P19-1310/
-
+            https://www.jw.org/fr
 **Licence :** MIT - Fevr 2021
