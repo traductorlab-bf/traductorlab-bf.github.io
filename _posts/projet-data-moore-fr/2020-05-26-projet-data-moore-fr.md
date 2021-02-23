@@ -34,7 +34,8 @@ short-description:
     - JavaScript
     
 - Source  : 
-       - https://www.aclweb.org/anthology/P19-1310/
-       - https://www.jw.org/fr
+https://www.aclweb.org/anthology/P19-1310/
+
+https://www.jw.org/fr
             
 **Licence :** MIT - Fevr 2021
