@@ -20,9 +20,10 @@ short-description:
 - Github : https://github.com/traductorlab-bf/projet-data-moore-fr
 - Membre :
     - Cordonnateur/Porteur du projet :
-      - KONE Yacouba
-      - Ibrahim Sawadogo
       - Armel Soubeiga
+      - KONE Yacouba
+      - ELiane Birba
+      - Ibrahim Sawadogo
       
      - Contributeurs :
 
